@@ -1,0 +1,2 @@
+# solution.txt
+murder mystery
